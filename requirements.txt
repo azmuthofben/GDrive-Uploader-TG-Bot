@@ -1,6 +1,6 @@
 wget
 asyncio
-https://github.com/pyrogram/pyrogram/archive/asyncio.zip
+https://github.com/pyrogram/pyrogram/releases/latest
 tgcrypto
 oauth2client
 psycopg2-binary
